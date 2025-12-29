@@ -1,0 +1,7 @@
+{
+  "name": "Copy of Lingo - Your Agriculture Guide",
+  "description": "An empathetic voice assistant designed to help Indian farmers navigate government schemes through natural conversation and storytelling.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
